@@ -8,5 +8,6 @@ public class DemoAnlageApp
         anlage.simulate(12,4500);
 
         System.out.println(anlage.renew(20000,15).toString());
+        System.out.println();
     }
 }

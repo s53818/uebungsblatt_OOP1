@@ -61,7 +61,6 @@ public class Anlage
 
     public void simulate(int maxJahre, int minWert)
     {
-        //System.out.println("Restwert im " + alter + ". Jahr: " + restWert);
         for (int i = 0; i < maxJahre; i++)
         {
             System.out.println("Restwert im " + alter + ". Jahr: " + restWert);
